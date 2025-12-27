@@ -128,3 +128,7 @@ dmypy.json
 *.swp
 *.swo
 *~
+orm_queries/__pycache__/__init__.cpython-312.pyc
+orm_queries/__pycache__/__init__.cpython-312.pyc
+orm_queries/__pycache__/__init__.cpython-312.pyc
+orm/__pycache__/__init__.cpython-312.pyc
